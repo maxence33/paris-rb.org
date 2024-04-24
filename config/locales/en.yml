@@ -2,7 +2,7 @@ en:
   or: or
   by: by
   welcome:
-    index:
+    paris_rb:
       title_html: Paris<span class="text-primary">.rb</span>
       subtitle_html: "Bringing together the <highlighed>French-speaking Ruby developers</highlighed> community around the values of sharing, mutual aid, and meetings."
       subtitle_2_html: "The Paris.rb meetup takes place <highlighed>on the first Tuesday of each month</highlighed>, a unique opportunity to meet IRL and exchange."
