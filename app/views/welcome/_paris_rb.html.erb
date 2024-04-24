@@ -9,7 +9,7 @@
           <div><%= t('.subtitle_html') %></div>
           <div><%= t('.subtitle_2_html') %></div>
         </div>
-        <div class="flex items-center gap-2">
+        <div class="flex flex-wrap items-center gap-2">
           <%= external_link_to t('.hero_cta'), meetup_url, class: "btn btn-accent", target: "_blank" %>
           <span><%= t("or") %></span>
           <%= link_to t(".suggest_talk"), new_talk_path, class: "link link-primary" %>
